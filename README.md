@@ -1,6 +1,6 @@
 # Round Robin Arbiter — SystemVerilog Verification
 
-**VLSI Verification Methodologies (MAVLD603) | VIT Vellore**
+**VLSI Verification Methodologies | VIT Vellore**
 
 A parameterised Round Robin arbiter supporting three arbitration policies, fully verified using a layered, UVM-inspired SystemVerilog testbench.
 
