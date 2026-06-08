@@ -1,6 +1,6 @@
 # Round Robin Arbiter — SystemVerilog Verification
 
-**VLSI Verification Methodologies | VIT Vellore**
+**VLSI Verification Methodologies**
 > **Syed Faheem,**
 >  M.Tech VLSI Design — VIT Vellore  
    
