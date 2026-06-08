@@ -2,7 +2,7 @@
 
 **VLSI Verification Methodologies | VIT Vellore**
 > **Syed Faheem**
-> M.Tech VLSI Design Project — VIT Vellore  
+>  M.Tech VLSI Design — VIT Vellore  
    
 
 A parameterised Round Robin arbiter supporting three arbitration policies, fully verified using a layered, UVM-inspired SystemVerilog testbench.
