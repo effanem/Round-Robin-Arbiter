@@ -17,7 +17,7 @@ A parameterised Round Robin arbiter supporting three arbitration policies, fully
 - [Test Results](#test-results)
 - [Code Coverage](#code-coverage)
 - [Known Issues](#known-issues)
-- [Authors](#authors)
+- [Acknowledgement](#acknowledgement)
 
 ---
 
