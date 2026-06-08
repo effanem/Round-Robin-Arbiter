@@ -51,6 +51,8 @@ round-robin-arbiter/
 │   └── rr_tb_top.sv            # Top-level module: clock gen, DUT instance, test launch
 ├── sim/
 │   └── Makefile                # Questa compile & run targets
+├── docs/
+│   └── verification_project                # PDF Report
 └── README.md
 ```
 
