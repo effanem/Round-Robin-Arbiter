@@ -226,4 +226,4 @@ I would like to express my sincere gratitude to my teammates for their valuable 
 
 Their efforts in design, verification, debugging, and documentation were instrumental in the successful completion of this work.
 
-This project was submitted to **Dr. Prayline Rajabai C**, Associate Professor, School of Electronics Engineering (SENSE), VIT Vellore, as part of the course **VLSI Verification Methodologies (MAVLD603)**.
+This project was submitted to **Dr. Prayline Rajabai C**, Associate Professor, School of Electronics Engineering (SENSE), VIT Vellore, as part of the course **VLSI Verification Methodologies**.
